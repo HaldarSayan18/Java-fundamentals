@@ -1,0 +1,106 @@
+Array-Based Coding Questions:
+//---------------------------------
+/* Basic Array Operations */
+
+Write a Java program to find the maximum and minimum elements in an array.
+
+Write a Java program to reverse an array.
+
+Write a Java program to remove duplicates from a sorted array.
+
+Write a Java program to rotate an array by k positions.
+
+Write a program to find the second largest element in an array.
+
+/* Searching & Sorting Algorithms */
+
+Implement binary search on a sorted array.
+
+Implement the bubble sort, selection sort, and insertion sort algorithms.
+
+Write a Java program to sort an array using merge sort and quick sort.
+
+Write a program to find the kth smallest/largest element in an array.
+
+/* Array Manipulation */
+
+Write a program to merge two sorted arrays into a single sorted array.
+
+Write a program to rearrange the array such that positive and negative numbers are placed alternatively.
+
+Write a Java program to move all zeroes to the end of an array while maintaining the order of the other elements.
+
+Write a program to find the maximum sum of a contiguous subarray using Kadane's Algorithm.
+
+/* Special Array Problems */
+
+Write a Java program to find the missing number in an array of size n containing elements from 1 to n.
+
+Write a program to find the duplicate number in an array of n+1 integers with values between 1 and n.
+
+Write a program to find the union and intersection of two arrays.
+
+Implement a program to check if an array is a subset of another array.
+
+/* Matrix Problems */
+
+Write a program to find the transpose of a matrix.
+
+Write a program to rotate a matrix by 90 degrees.
+
+Write a program to find the sum of the main diagonal elements in a matrix.
+
+Write a Java program to check if a matrix is symmetric.
+
+
+DSA (Data Structures & Algorithms) Questions:
+//-----------------------------------------------
+/* Linked List */
+
+Implement a singly linked list and perform insertion, deletion, and traversal operations.
+
+Write a program to reverse a linked list.
+
+Write a program to find the middle element of a linked list.
+
+Write a program to detect a cycle in a linked list using Floyd's Cycle Detection Algorithm.
+
+/* Stack and Queue */
+
+Implement a stack using arrays and linked lists.
+
+Write a program to implement a queue using arrays.
+
+Implement a circular queue using arrays.
+
+Write a program to implement two stacks using a single array.
+
+/* Trees */
+
+Write a Java program to implement a binary search tree and perform insertion, deletion, and traversal (in-order, pre-order, post-order).
+
+Write a program to find the height of a binary tree.
+
+Write a program to check if a binary tree is balanced.
+
+Write a program to find the lowest common ancestor (LCA) of two nodes in a binary search tree.
+
+/* Graph Algorithms */
+
+Implement a graph using adjacency matrix and adjacency list.
+
+Write a program to perform depth-first search (DFS) and breadth-first search (BFS) on a graph.
+
+Write a program to detect a cycle in an undirected graph using DFS.
+
+Implement Dijkstra's Algorithm to find the shortest path in a weighted graph.
+
+/* Dynamic Programming */
+
+Write a Java program to solve the 0/1 Knapsack Problem using dynamic programming.
+
+Write a program to find the longest increasing subsequence in an array.
+
+Solve the coin change problem using dynamic programming.
+
+Implement the solution for the fibonacci sequence using both recursion and dynamic programming.
