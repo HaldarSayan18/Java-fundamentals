@@ -1,3 +1,4 @@
+package Sorting;
 //merge two sorted arrays
 import java.util.*;
 
