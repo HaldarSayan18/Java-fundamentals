@@ -2,7 +2,7 @@ package Sorting;
 //merge two sorted arrays
 import java.util.*;
 
-public class MergeSorted {
+public class MergeSort {
     public static int[] mergeSortedArrays(int[] arr1, int[] arr2) {
         int len1 = arr1.length;
         int len2 = arr2.length;
@@ -35,9 +35,10 @@ public class MergeSorted {
     }
 
     public static void main(String[] args) {
-        int[] arr1 = { 1, 3, 5, 7 };
+        int[] arr1 = { 1, 3, 5, 7};
+        System.out.println("array 1 = "+Arrays.toString(arr1));
         int[] arr2 = { 2, 4, 6, 8 };
-
+        System.out.println("array 2 = "+Arrays.toString(arr2));
         int[] mergedArray = mergeSortedArrays(arr1, arr2);
 
         System.out.println("Merged Array: " + Arrays.toString(mergedArray));
