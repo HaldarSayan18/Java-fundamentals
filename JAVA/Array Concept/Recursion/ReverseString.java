@@ -1,6 +1,6 @@
 //reverse a string and print it using recursion
 
-package Recursion;
+// package Recursion;
 import java.util.Scanner;
 
 public class ReverseString {

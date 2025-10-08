@@ -1,7 +1,7 @@
 //check if an array is sorted (strictly Increasing)
 //time complexity O(n)
 
-package Recursion;
+// package Recursion;
 import java.util.Scanner;
 
 public class SortedCheck {
@@ -9,7 +9,7 @@ public class SortedCheck {
     public static boolean isSorted (int arr[], int index) {
         if (index == arr.length - 1) {
             //array is sorted till now
-           return true; 
+            return true; 
         }
         if (arr[index] < arr[index + 1]) {
             isSorted(arr, index+1);
